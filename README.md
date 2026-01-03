@@ -4,6 +4,8 @@
 This project is an end-to-end Payroll Analytics and Risk Detection solution built using Power BI. The goal of the project is to identify salary leakage, overtime abuse, and ghost employees by transforming raw payroll data into actionable executive-level insights.
 
 The project simulates a real-world corporate payroll environment and demonstrates skills in data cleaning, Power Query transformations, DAX KPI creation, and executive dashboard design.
+![Payroll & Attendance Dashboard](dashboard%20overview.png)
+
 
 🎯 Objectives
 
